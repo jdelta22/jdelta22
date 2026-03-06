@@ -22,6 +22,16 @@ Uso este GitHub para estudar, testar ideias e construir projetos práticos.
 
 ## 📌 Repositórios Atuais
 
+### 🔹 ORCAMENTER
+📄 **Descrição:**  
+ORCAMENTER é uma aplicação web full-stack para criação e gerenciamento de orçamentos, 
+construída com **Django REST Framework** no backend e **React.js** no frontend.
+
+🛠️ **Tecnologias:** Python, Django REST Framework, React.js
+🔗 **Repo:** https://github.com/jdelta22/edcnews-djangoblog
+
+---
+
 ### 🔹 edcnews-djangoblog
 📄 **Descrição:**  
 Projeto **Django** de um blog de notícias, com sistema de posts e estrutura web clássica.
