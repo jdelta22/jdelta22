@@ -58,12 +58,3 @@ Projeto focado em **lógica de programação**.
 🔗 **Repo:** https://github.com/jdelta22/armstrong_checker
 
 ---
-
-### 🔹 projetodg
-📄 **Descrição:**  
-Projeto front-end simples para prática de **HTML e CSS**, focado em layout e estrutura visual.
-
-🛠️ **Tecnologias:** HTML, CSS  
-🔗 **Repo:** https://github.com/jdelta22/projetodg
-
----
