@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Olá! Eu sou o João (jdelta22)
+# 👋 Olá! Eu sou o João Pedro Calaça Costa (jdelta22)
 
 Sou desenvolvedor com foco em **Python e Django**, interessado em **APIs REST, automação, análise de dados e Machine Learning**.  
 Uso este GitHub para estudar, testar ideias e construir projetos práticos.
@@ -22,6 +22,15 @@ Uso este GitHub para estudar, testar ideias e construir projetos práticos.
 
 ## 📌 Repositórios Atuais
 
+### 🔹 edcnews-djangoblog
+📄 **Descrição:**  
+Projeto **Django** de um blog de notícias, com sistema de posts e estrutura web clássica.
+
+🛠️ **Tecnologias:** Python, Django  
+🔗 **Repo:** https://github.com/jdelta22/edcnews-djangoblog
+
+---
+
 ### 🔹 AutoOr-amento2Dav
 📄 **Descrição:**  
 Projeto em Python para **automatização de orçamentos**, aplicando lógica de programação e organização de dados.
@@ -37,15 +46,6 @@ Projeto em Python focado em **estatística descritiva**, com geração de **tabe
 
 🛠️ **Tecnologias:** Python  
 🔗 **Repo:** https://github.com/jdelta22/tabela-de-frequencia
-
----
-
-### 🔹 edcnews-djangoblog
-📄 **Descrição:**  
-Projeto **Django** de um blog de notícias, com sistema de posts e estrutura web clássica.
-
-🛠️ **Tecnologias:** Python, Django  
-🔗 **Repo:** https://github.com/jdelta22/edcnews-djangoblog
 
 ---
 
