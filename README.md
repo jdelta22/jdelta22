@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Olá! Eu sou o João Pedro Calaça Costa (jdelta22)
+# 👋 Olá! Eu sou o João Pedro
 
 Sou desenvolvedor com foco em **Python e Django**, interessado em **APIs REST, automação, análise de dados e Machine Learning**.  
 Uso este GitHub para estudar, testar ideias e construir projetos práticos.
