@@ -28,7 +28,7 @@ ORCAMENTER é uma aplicação web full-stack para criação e gerenciamento de o
 construída com **Django REST Framework** no backend e **React.js** no frontend.
 
 🛠️ **Tecnologias:** Python, Django REST Framework, React.js
-🔗 **Repo:** https://github.com/jdelta22/edcnews-djangoblog
+🔗 **Repo:** https://github.com/jdelta22/ORCAMENTER
 
 ---
 
