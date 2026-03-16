@@ -32,6 +32,18 @@ construída com **Django REST Framework** no backend e **React.js** no frontend.
 
 ---
 
+### 🔹 Automação de whatsapp usando docker e n8n
+📄 **Descrição:**  
+Robô criado como parte de aprendizado de uso do n8n. Utiliza o n8n como gerenciador
+de fluxo onde, ao receber uma mensagem no whatsapp, o robo utiliza um agente de IA LLM
+para responder de acordo com um prompt designado. Todas as ferramentas utilizadas são 
+instanciadas a partir de um docker compose.
+
+🛠️ **Tecnologias:** N8N, Docker Compose, EvolutionAPI, Redis, Postgress
+🔗 **Repo:** https://github.com/jdelta22/n8n-evolution-docke
+
+---
+
 ### 🔹 edcnews-djangoblog
 📄 **Descrição:**  
 Projeto **Django** de um blog de notícias, com sistema de posts e estrutura web clássica.
